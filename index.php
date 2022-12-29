@@ -19,6 +19,10 @@ $personas = [
     "Juan" => 65
 ];
 
-var_dump(personas);
+// var_dump($personas);                                         // Otorga más información
+
+print_r($personas);                                             // Imprime de mejor manera para poder leer
+
+
 
 echo "/n";
